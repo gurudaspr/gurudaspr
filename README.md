@@ -1,59 +1,63 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gurudaspr.gurudaspr" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gurudas+Pr!;" />
-</h1>
-
-
-<h3 align="center">A passionate software developer from India IN</h3>
-<br/>
-
-<div align="center"> 
-  <a href="mailto:gurudaspr@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/gurudaspr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://gurudaspr.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,prisma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+
+<p align="left">
+  <code>PLAY</code> &nbsp;&nbsp; <code>COLLECTION</code> &nbsp;&nbsp; <b><code>CAREER</code></b> &nbsp;&nbsp; <code>STORE</code>
+</p>
+
+---
+
+<table border="0">
+  <tr>
+    <td width="200" align="center">
+      <img src="https://raw.githubusercontent.com/FrenzY8/Valorant-API/main/Assets/Ranks/Immortal_3_Rank.png" width="140" />
+      <br>
+      <img src="https://img.shields.io/badge/RR-RANK_UP_READY-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
+    </td>
+    <td width="600">
+      <h1> [YOUR_NAME] // <kbd>IMMORTAL</kbd> </h1>
+      <p><b>EPISODE 08 // ACT III</b></p>
+      <p><i>"I don't just lead them. I show them the way."</i></p>
+      <hr>
+      <p>
+        <img src="https://img.shields.io/badge/Main_Agent-JETT-white?style=flat-square&logo=riotgames&logoColor=red" />
+        <img src="https://img.shields.io/badge/Region-LATAM-333?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-ONLINE-00FFCC?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <th colspan="2" align="left">🕹️ MATCH_HISTORY</th>
+    <th align="left">📊 PERFORMANCE_DATA</th>
+  </tr>
+  <tr>
+    <td width="10%"><img src="https://raw.githubusercontent.com/FrenzY8/Valorant-API/main/Assets/Maps/Ascent_Icon.png" width="40"/></td>
+    <td width="40%"><b>VICTORY</b> <br> <small>ASCENT - 13:5</small></td>
+    <td rowspan="3" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=FF4655&icon_color=FF4655&bg_color=0f1923&hide_border=true" width="350" />
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FrenzY8/Valorant-API/main/Assets/Maps/Bind_Icon.png" width="40"/></td>
+    <td><b>VICTORY</b> <br> <small>BIND - 13:11</small></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FrenzY8/Valorant-API/main/Assets/Maps/Haven_Icon.png" width="40"/></td>
+    <td><font color="#FF4655"><b>DEFEAT</b></font> <br> <small>HAVEN - 10:13</small></td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ AGENT_LOADOUT (Tech Stack)
+<p align="left">
+<img src="https://img.shields.io/badge/FRONTEND-REACT_%2F_NEXT.JS-FF4655?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/BACKEND-NODE.JS-00FFCC?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/DATABASE-POSTGRES-white?style=for-the-badge&logo=postgresql" />
+</p>
+
 </div>
-
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gurudaspr/gurudaspr/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=gurudaspr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=gurudaspr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gurudaspr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
